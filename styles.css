@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova:400,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700&display=swap');
+
+body {
+    background-color: #ebebeb;
+}
+
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.container {
+    padding: 50px;
+    max-width: 800px;
+}
+.title {
+    text-align: center;
+    font-weight: 700;
+    color: green;
+}
+.text {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+strong {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #67bf7c;
+}
+.timeline {
+    max-width: 800px;
+}
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #317842; 
+}
+a {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #357a8f;
+}
+hr {
+    padding-bottom: 30px;
+}
+.footer {
+    background-color: #d4d4d4;
+    padding: 50px;
+    text-align: center;
+    font-size: 14px;
+}
+.footer a {
+    font-size: 14px;
+    padding: 0px;
+}
+.footer a:hover {
+    text-decoration: none;
+}
+img {
+    max-width: 700px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.caption {
+    text-align: center;
+}
